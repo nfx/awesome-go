@@ -3533,6 +3533,7 @@ _Source code analysis tools, also known as Static Application Security Testing (
 - [golangci-lint](https://github.com/golangci/golangci-lint) – A fast Go linters runner. It runs linters in parallel, uses caching, supports `yaml` config, has integrations with all major IDE and has dozens of linters included.
 - [golines](https://github.com/segmentio/golines) - Formatter that automatically shortens long lines in Go code.
 - [gomarklint](https://github.com/shinagawa-web/gomarklint) - Markdown linter with built-in HTTP link validation, single binary, no Node.js required.
+- [go-ownfunc](https://github.com/nfx/go-ownfunc) - Code-style linter reporting dangling package-level functions used only one a single type with autofix.
 - [GoPlantUML](https://github.com/jfeliu007/goplantuml) - Library and CLI that generates text plantump class diagram containing information about structures and interfaces with the relationship among them.
 - [goreturns](https://github.com/sqs/goreturns) - Adds zero-value return statements to match the func return types.
 - [gostatus](https://github.com/shurcooL/gostatus) - Command line tool, shows the status of repositories that contain Go packages.
